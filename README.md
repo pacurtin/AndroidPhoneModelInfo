@@ -1,2 +1,21 @@
 # AndroidPhoneModelInfo
-<img src="Screenshot.png" alt="Main Activity" style="width: 200px;"/>
+Display following phone details:
+* Model
+* Manufacturer
+* Board
+* Bootloader
+* Brand
+* CpuAbi
+* CpuAbi2
+* Device
+* Display
+* Fingerprint
+* Hardware
+* Host
+* Id
+* Product
+* Radio
+* Serial
+* Tags
+* Type
+* User
